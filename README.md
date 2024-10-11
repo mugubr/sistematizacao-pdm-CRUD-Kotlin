@@ -16,3 +16,6 @@ Este é um aplicativo Android simples para gerenciar notas, permitindo a criaç�
 ## Funcionalidades desenvolvidas
 - Criar, visualizar, atualizar e excluir notas.
 - Persistência de dados utilizando SQLite.
+
+## Link para o vídeo de apresentação do projeto
+https://www.youtube.com/watch?v=LT8LOa-kDr0
